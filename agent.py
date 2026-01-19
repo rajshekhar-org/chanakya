@@ -2,7 +2,7 @@ import sys
 
 def greet_future_expert():
     print("Chanakya is alive! System version: ", sys.version)
-    print("Welcome, future AI expert! The future is bright with your contributions.")
+    print("Welcome, future AI expert! The future is bright with your contribution is yours.")
 
 if __name__ == "__main__":
     greet_future_expert()
